@@ -1,0 +1,18 @@
+.submit{
+         background-color: rgb(240, 248, 240);
+         min-width: 200px;
+         max-height: 10px;  
+         border:1px solid red;
+         padding-top: 100px;
+         margin-top:200px;
+                       
+}
+.submit>button{
+    background-color: rgb(247, 58, 58);
+    color:white;
+    width: 80px;
+    height: 40px;
+    font-size: 25px;
+    margin-left: 93%;
+    
+}

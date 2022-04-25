@@ -1,0 +1,13 @@
+.merchant > h1{
+     color: black;
+     background-color: rgb(209, 243, 209);
+     height: 50px;
+     padding-top: 40px;
+     padding-left: 20px;
+     
+}
+.merchant{
+     border: 1px solid  blue;
+     height: 90px;
+    
+}
